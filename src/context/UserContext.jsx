@@ -1,9 +1,4 @@
-import React from 'react'
+import React, { useContext } from 'react'
+expo
 
-const UserContext = () => {
-  return (
-    <div>UserContext</div>
-  )
-}
 
-export default UserContext
